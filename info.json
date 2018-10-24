@@ -1,0 +1,12 @@
+{
+	"name": "Angel_Smelting_RUS_locale",
+	"version": "1.0.1",
+	"factorio_version": "0.16",
+	"title": "Angel's Smelting Russian Translation",
+	"author": "Quarasique",
+	"contact": "",
+	"homepage": "",
+	"description": "Перевод металлургии Ангела",
+	"dependencies": ["base >= 0.16", "angelssmelting >= 0.4.6"]
+	
+}
